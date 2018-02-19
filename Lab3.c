@@ -98,3 +98,4 @@ void printOutput(char* rev_str){
 	}	
 	printf("The string is %d chars and %d were capitalized.\n", len, count);
 }
+
